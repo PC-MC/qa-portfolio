@@ -1,10 +1,57 @@
-Меня зовут Анатолий Спицын. 
+# QA Portfolio
 
-В этом репозитории собраны мои учебные работы по тестированию:
+Меня зовут Анатолий Спицын.
 
-- чек-листы;
-- тест-кейсы;
-- баг-репорты;
-- API-тестирование в Postman;
-- SQL-запросы;
-- Git и GitHub.
+В этом репозитории собраны мои учебные работы по тестированию программного обеспечения.
+
+## Skills
+
+- Manual Testing
+- Test Cases
+- Checklists
+- Bug Reports
+- Jira
+- API Testing (Postman)
+- SQL
+- Git / GitHub
+
+
+## Portfolio
+
+### Test Cases
+
+- [Password Recovery Test Case](./test-cases/password-recovery-test-case.md)
+
+
+### Bug Reports
+
+- [Password Recovery Bug Report](./bug-reports/password-recovery-bug.md)
+
+
+### Checklists
+
+- [Password Recovery Checklist](./checklists/password-recovery-checklist.md)
+
+
+### Jira Practice
+
+- [Jira Practice](./jira/jira-practice.md)
+
+
+### API Testing
+
+- [Postman API Testing](./postman/api-testing.md)
+
+
+### SQL
+
+- [QA SQL Queries](./sql/qa-queries.sql)
+
+
+## Tools
+
+- Jira
+- Postman
+- Git
+- GitHub
+- SQL
