@@ -48,6 +48,12 @@
 - [QA SQL Queries](./sql/qa-queries.sql)
 
 
+### Test Design
+
+- [Equivalence Partitioning and Boundary Value Analysis](./test-design/equivalence-boundary-analysis.md)
+- [Decision Table - Promo Code](./test-design/decision-table-promo-code.md)
+
+
 ## Tools
 
 - Jira
